@@ -40,7 +40,7 @@ My work lies at the intersection of **physics, mathematics, and data science**. 
 **Mathematical & Theoretical Foundation**
 
 <p>
-  <img src="https://img.shields.io/badge/Mathematical_Analysis-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Calculus-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linear_Algebra-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Probability_Theory-2C3E50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Complex_Analysis-2C3E50?style=for-the-badge" />
