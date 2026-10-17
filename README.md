@@ -16,7 +16,7 @@ I am a 3rd-year Physics student at the **Faculty of Physics, HSE University**, a
 
 My work lies at the intersection of **physics, mathematics, and data science**. I am particularly interested in applying machine learning and numerical methods to understand complex cosmic phenomena.
 
-- 🎓 **Education:** BSc Physics, HSE University (2023 – Present)
+- 🎓 **Education:** BSc Physics, HSE University (2024 – Present)
 - 🔬 **Research:** High Energy Astrophysics, IKI RAS
 - 💡 **Focus Areas:** Research, Machine Learning, Data Analysis, Numerical Simulation of Space Processes
 
