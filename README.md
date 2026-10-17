@@ -1,10 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mark%20Andronov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<h1 align="center">Mark Andronov</h1>
+<h3 align="center">Physics Student · Machine Learning · High Energy Astrophysics</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Physics+Student+%40+HSE+%7C+IKI+RAS;Machine+Learning+%7C+Data+Analysis;Numerical+Modeling+of+Astrophysical+Processes;High+Energy+Astrophysics+Enthusiast" alt="Typing SVG" />
-  </a>
+  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://t.me/[your-telegram]"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+---
 
 ---
 
