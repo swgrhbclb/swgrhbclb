@@ -19,7 +19,6 @@ My work lies at the intersection of **physics, mathematics, and data science**. 
 - 🎓 **Education:** BSc Physics, HSE University (2023 – Present)
 - 🔬 **Research:** High Energy Astrophysics, IKI RAS
 - 💡 **Focus Areas:** Research, Machine Learning, Data Analysis, Numerical Simulation of Space Processes
-- 📫 **How to reach me:** [andronovmark500@gmail.com] | [https://t.me/swgrhbclb]
 
 ---
 
